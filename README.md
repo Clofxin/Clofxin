@@ -5,7 +5,7 @@
 **Talking about Personal Stuffs:**
 
 > 🌱 I’m currently learning Javascript, <br>
-> 📫 Please via [Mail](https://clofxin.com.tr/contact.html) to reach me. <br>
+> 📫 Please via [Mail](https://clofxin.com.tr/404.shtml) to reach me. <br>
 > 🌠 <img src="https://komarev.com/ghpvc/?username=This-null&label=Visitors&color=brightgreen&style=plastic" alt="This-null"/></td>
 
 **Languages and Tools:**  
@@ -33,15 +33,6 @@
 
 
 
-
-### Discord Account
-<table>
-  <tr>
-<td align="center" style="padding=0;width=50%;">
-
-  
-
-<img src="https://lanyard.kyrie25.me/api/320589702803750912?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
 
 </table>
    
