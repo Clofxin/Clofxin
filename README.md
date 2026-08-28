@@ -4,7 +4,7 @@
 
 **Kişisel Bilgiler:**
 
-> 🌱 Takılıyorum. <br>
+> 🌹 Takılıyorum. <br>
 > 🌠 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçiler&color=brightgreen&style=plastic" alt="This-null"/>
 
 <br>
